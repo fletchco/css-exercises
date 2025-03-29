@@ -29,14 +29,14 @@ body {
   font-weight: bold;
 } 
 
+.child {
+  color: rgb(0, 0, 0);
+  font-weight: 900;
+  font-size: 12px;
+}
+
 text {
   color: rgb(0, 0, 0);
   font-size: 22px;
   font-weight: 100;
-}
-
-.child {
-  color: rgb(0, 0, 0);
-  font-weight: 900;
-  font-size: 14px;
 }
